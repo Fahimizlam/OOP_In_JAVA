@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c83cb060-0af3-4b5a-8306-b6ecd3f0502a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_1/Class_Fabia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_1/Class_Fahim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_1/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
